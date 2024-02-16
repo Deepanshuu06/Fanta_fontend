@@ -28,7 +28,7 @@ Fenta is a simple web project showcasing a fictional soft drink brand. It includ
 5. If you want to modify the animations or their triggers, you can do so by editing the JavaScript code in `script.js`. The comments within the code can guide you through understanding and customizing the animations.
 
 ## Deployed Project:
-Check out the deployed version of the project [here]([https://your_deployed_project_link_here](http://hackthon.me/Fanta_fontend/)).
+Check out the deployed version of the project [here]([http://hackthon.me/Fanta_fontend/]).
 
 ## Credits:
 - [Remix Icon](https://remixicon.com/) for icons used in the project.
